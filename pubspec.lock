@@ -183,10 +183,10 @@ packages:
     dependency: "direct main"
     description:
       name: pointycastle
-      sha256: "3c8bca6b347c1276b515d3df0b89cefb097f6d98bb74858f57aab5ee9305c538"
+      sha256: "4ed9ae487542d265a99f96bb160f76b5cee725376caa6b365aa0df060d64b2db"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.1"
+    version: "1.0.2"
   sky_engine:
     dependency: transitive
     description: flutter
